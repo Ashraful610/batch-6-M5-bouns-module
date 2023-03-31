@@ -15,3 +15,6 @@ div{
     height:250px;
     background-image: linear-gradient(orange,red);
 }
+input:focus{
+    color: crimson;
+}
